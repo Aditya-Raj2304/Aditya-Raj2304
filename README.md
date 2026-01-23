@@ -1,13 +1,13 @@
-#🔹 Project Title
+🔹 Project Title
 
 HTML & CSS Practice Projects
 
-#🔹 Description
+🔹 Description
 
 This repository contains beginner-level HTML and CSS projects created to practice basic web development concepts such as page structure, styling, and file organization.
 
-#🔹 Projects Included
-##1️⃣ Personal Profile Page
+🔹 Projects Included
+1️⃣ Personal Profile Page
 
 A simple webpage about myself
 
@@ -19,7 +19,7 @@ File:
 
 Index.html
 
-##2️⃣ Student Table Page
+2️⃣ Student Table Page
 
 A webpage displaying student details in a table format
 
@@ -33,13 +33,13 @@ Table.html
 
 style1.css
 
-#🔹 Technologies Used
+🔹 Technologies Used
 
 HTML5
 
 CSS3
 
-#🔹 How to View the Projects
+🔹 How to View the Projects
 
 Clone the repository
 
@@ -48,7 +48,7 @@ git clone <your-repo-link>
 
 Open any .html file in a web browser
 
-#🔹 Learning Objectives
+🔹 Learning Objectives
 
 Understanding HTML structure
 
