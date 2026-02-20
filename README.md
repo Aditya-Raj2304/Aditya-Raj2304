@@ -38,3 +38,16 @@ This repository contains beginner-level HTML and CSS projects created to practic
 1. 📥 Clone the repository  
    ```bash
    git clone <your-repo-link>
+## 🎯 Learning Objectives
+- 🏗️ Understanding HTML structure  
+- ✨ Applying CSS styles  
+- 🔗 Linking external CSS files  
+- 📄 Creating and styling web pages  
+- 🧩 Organizing project files properly  
+
+---
+
+## 👨‍💻 Author
+**Aditya Raj**  
+🌱 Beginner Web Developer 🚀  
+💻 Passionate about learning Web Development
