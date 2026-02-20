@@ -38,6 +38,10 @@ This repository contains beginner-level HTML and CSS projects created to practic
 1. 📥 Clone the repository  
    ```bash
    git clone <your-repo-link>
+2. 🌍 Open any `.html` file in a web browser
+
+---
+
 ## 🎯 Learning Objectives
 - 🏗️ Understanding HTML structure  
 - ✨ Applying CSS styles  
