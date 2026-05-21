@@ -36,26 +36,18 @@ I am a passionate **Computer Science Engineering** diploma student at **BIT Mesr
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Proficiency & Domain Breakdown
-```text
-Frontend Development  █████████████████████████▒▒▒▒▒  83%
-UI/UX Design          ████████████████████████▒▒▒▒▒▒  80%
-Graphic Designing     ██████████████████████████▒▒▒▒  85%
-C / C++ Programming   ████████████████████▒▒▒▒▒▒▒▒▒▒  65%
-Python Development    ████████████████████▒▒▒▒▒▒▒▒▒▒  65%
 
+**Frontend Development**
+<progress value="83" max="100"></progress> 83%
 
-- 📧 Email: adityaaraj.2008@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aditya-raj-b1b391322
+**UI/UX Design**
+<progress value="80" max="100"></progress> 80%
 
----
+**Graphic Designing**
+<progress value="85" max="100"></progress> 85%
 
-## ✨ Quote I Believe In
+**C / C++ Programming**
+<progress value="65" max="100"></progress> 65%
 
-✨ *Success comes from continuous learning and consistent effort.*
-
----
-
-## 🙌 Thanks for Visiting
-
-⭐ Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me.
+**Python Development**
+<progress value="65" max="100"></progress> 65%
