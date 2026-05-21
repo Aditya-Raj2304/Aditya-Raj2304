@@ -37,17 +37,10 @@ I am a passionate **Computer Science Engineering** diploma student at **BIT Mesr
 
 ### 📊 Proficiency & Domain Breakdown
 
-**Frontend Development**
-<progress value="83" max="100"></progress> 83%
-
-**UI/UX Design**
-<progress value="80" max="100"></progress> 80%
-
-**Graphic Designing**
-<progress value="85" max="100"></progress> 85%
-
-**C / C++ Programming**
-<progress value="65" max="100"></progress> 65%
-
-**Python Development**
-<progress value="65" max="100"></progress> 65%
+| Domain | Proficiency | Level |
+| :--- | :---: | :---: |
+| **Frontend Development** | 83% | Advanced |
+| **UI/UX Design** | 80% | Advanced |
+| **Graphic Designing** | 85% | Advanced |
+| **C / C++ Programming** | 65% | Intermediate |
+| **Python Development** | 65% | Intermediate |
