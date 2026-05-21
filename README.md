@@ -1,137 +1,131 @@
-<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Diploma Student | CSE @ BIT Mesra <br>
-🚀 Python & Frontend Enthusiast | UI/UX Designer | C/C++ Developer
-</h3>
+# 👋 Hey, I'm Aditya Raj
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Python+Enthusiast;UI%2FUX+Designer;Graphic+Designer;Always+Learning+New+Technologies" />
-</p>
+### 💻 Diploma Student @ BIT Mesra  
+### 🚀 Frontend Developer • Python Enthusiast • UI/UX Designer • Graphic Designer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Python+Enthusiast;Creative+UI%2FUX+Designer;Responsive+Web+Developer;Always+Learning+New+Things+🚀" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME_HERE?style=for-the-badge&logo=github" />
-  
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME_HERE?style=for-the-badge&logo=github" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+</div>
 
 # 🚀 About Me
 
-- 🎓 Pursuing Diploma in Computer Science Engineering (4th Semester)
-- 🏫 Student at BIT Mesra, Ranchi
-- 💡 Passionate about Web Development & Creative Design
-- 🌱 Currently learning **Java & Advanced Frontend**
-- 🎨 Designing Posters, Certificates & Branding Assets
-- ⚡ Love building responsive and visually attractive websites
-- 📚 Exploring UI/UX, Software Development & Modern Tech
+```yaml
+Name: Aditya Raj
+Education: Diploma in Computer Science Engineering
+College: BIT Mesra, Ranchi
+Semester: 4th Semester
+
+Interests:
+  - Frontend Development
+  - UI/UX Design
+  - Graphic Designing
+  - Software Development
+
+Currently Learning:
+  - Java
+  - Advanced Frontend
+  - Responsive UI Design
+
+Passion:
+  - Building modern websites
+  - Creating premium designs
+  - Solving real-world problems
+```
 
 ---
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 ## 👨‍💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java" />
+
+<br><br>
 
 ## ⚙️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+</div>
 
 ---
 
 # 📌 Featured Projects
 
-## 🌐 Personal Portfolio Website
-✨ A premium responsive portfolio website showcasing my skills, projects, and creative engineering work with modern UI aesthetics.
+<div align="center">
 
----
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🌐 **Portfolio Website** | Premium responsive portfolio showcasing projects, skills & creativity |
+| 🔐 **Authentication System** | Modern Login & Signup UI with responsive frontend layouts |
+| 📊 **Student Dashboard** | Interactive dashboard built using semantic HTML & modern CSS |
+| 🎨 **Poster & Certificate Designs** | Posters, banners & certificates for events and fests |
 
-## 🔐 Login & Signup System
-🛡️ Modern authentication pages with responsive layouts, clean UI design, and adaptive frontend experience.
-
----
-
-## 📊 Student Dashboard
-📈 Interactive dashboard interface designed using semantic HTML structures and modern CSS layouts.
-
----
-
-## 🎨 Poster & Certificate Designs
-🎭 Designed posters, certificates, banners, and promotional creatives for college events, technical fests, and branding activities.
+</div>
 
 ---
 
 # 📈 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&row=1&margin-w=15&margin-h=15"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:adityaaraj.2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/aditya-raj-b1b391322">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/YOUR_GITHUB_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# ✨ Quote I Believe In
-
-<p align="center">
-  
-> ### 🚀 "Success comes from continuous learning and consistent effort."
-
-</p>
+</div>
 
 ---
 
@@ -141,32 +135,66 @@
 const aditya = {
     learning: ["Java", "Frontend Development", "UI/UX"],
     workingOn: ["Responsive Websites", "Creative Designs"],
-    goals: ["Become a Full Stack Developer", "Build Amazing Projects"],
-    funFact: "I turn ideas into creative digital experiences ✨"
+    goals: ["Full Stack Development", "Professional UI/UX"],
+    funFact: "I turn ideas into digital experiences ✨"
 };
 ```
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME_HERE/YOUR_GITHUB_USERNAME_HERE/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<a href="mailto:adityaaraj.2008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-raj-b1b391322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 🙌 Thanks for Visiting
+# ✨ Quote I Believe In
 
-<p align="center">
-  
-⭐ Feel free to explore my repositories and connect with me!  
-💙 Thanks for visiting my profile.
+<div align="center">
 
-</p>
+### 🚀 *"Success comes from continuous learning and consistent effort."*
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
-</p> 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🙌 Thanks For Visiting
+
+<div align="center">
+
+⭐ Explore my repositories and connect with me  
+💙 Thanks for visiting my profile
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2FF,100:8A2BE2&section=footer"/>
+
+</div>
