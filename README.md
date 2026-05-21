@@ -1,71 +1,48 @@
 # Hi there, I'm Aditya Raj 👋
-
-### Diploma Student | CSE @ BIT Mesra | Python & Frontend Enthusiast | UI/UX & C/C++ Developer | Graphic Designer
-
-Welcome to my GitHub profile!  
-I am a passionate Computer Science Engineering diploma student at BIT Mesra who enjoys building creative and responsive websites, designing graphics, and continuously learning modern technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Diploma+Student+@+BIT+Mesra;Full-Stack+Web+Developer;UI%2FUX+%26+Graphic+Designer;Python+%26+Frontend+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing Diploma in Computer Science Engineering (4th Semester)
-- 🏫 Student at BIT Mesra, Ranchi
-- 💻 Interested in Web Development, Software Development, UI/UX Development & Graphic Designing
-- 🌱 Currently learning Java and improving frontend skills
-- 🎨 Experienced in creating websites, posters, certificates, and event designs
-- ⚡ Passionate about technology, creativity, and problem solving
+I am a passionate **Computer Science Engineering** diploma student at **BIT Mesra, Ranchi** (4th Semester). I specialize in bridging the gap between functional code and beautiful design. Whether it's architecting responsive web layouts, designing sleek UI/UX prototypes, or crafting visual graphics, I love bringing creative ideas to life.
+
+- 🎓 **Education:** Pursuing Diploma in Computer Science Engineering (4th Semester)
+- 🏫 **Campus:** Student at BIT Mesra, Ranchi
+- 💻 **Interests:** Web Development, Software Development, UI/UX Development & Graphic Designing
+- 🌱 **Currently Learning:** Java, Advanced Backend Architecture, and Production Deployment
+- 🎨 **Creative Edge:** Deeply experienced in event branding, poster design, certificates, and UI layouts
+- ⚡ **Core Philosophy:** *Success comes from continuous learning and consistent effort.*
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack & Skills
 
-### Languages
-- HTML5
-- CSS3
-- C
-- C++
-- Python
-- Java
+### 💻 Languages & Core Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Canva
-- Figma
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Areas of Interest
-- Frontend Development
-- UI/UX Design
-- Graphic Designing
-- Responsive Web Design
-- Software Development
+### 📊 Proficiency & Domain Breakdown
+```text
+Frontend Development  █████████████████████████▒▒▒▒▒  83%
+UI/UX Design          ████████████████████████▒▒▒▒▒▒  80%
+Graphic Designing     ██████████████████████████▒▒▒▒  85%
+C / C++ Programming   ████████████████████▒▒▒▒▒▒▒▒▒▒  65%
+Python Development    ████████████████████▒▒▒▒▒▒▒▒▒▒  65%
 
----
-
-## 📌 Projects
-
-### 🌐 Portfolio Website
-A responsive personal portfolio website showcasing skills and projects.
-
-### 🔐 Login & Signup System
-Modern frontend authentication pages with responsive UI.
-
-### 📊 Student Dashboard
-A clean dashboard interface designed using HTML and CSS.
-
-### 🎨 Poster & Certificate Designs
-Created posters, certificates, and promotional designs for college events and fests.
-
----
-
-## 📈 GitHub Stats
-
-💡 **Consistency + Creativity + Learning = Growth**
-
----
-
-## 📫 Connect With Me
 
 - 📧 Email: adityaaraj.2008@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/aditya-raj-b1b391322
