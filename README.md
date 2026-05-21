@@ -44,3 +44,52 @@ I am a passionate **Computer Science Engineering** diploma student at **BIT Mesr
 | **Graphic Designing** | 85% | Advanced |
 | **C / C++ Programming** | 65% | Intermediate |
 | **Python Development** | 65% | Intermediate |
+
+# 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" alt="Aditya's GitHub Stats" height="190px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide=html" alt="Top Languages Graph" height="190px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# ✨ Quote I Believe In
+
+> **"Success comes from continuous learning and consistent effort."**
+
+---
+
+# 🙌 Thanks for Visiting
+
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
