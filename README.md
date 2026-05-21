@@ -1,140 +1,86 @@
-<div align="center">
+# Hi there, I'm Aditya Raj 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Aditya%20Raj&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Frontend%20Developer%20•%20UI%2FUX%20Designer%20•%20CSE%20Student&descAlignY=58&descColor=aaaaaa&animation=fadeIn"/>
+### Diploma Student | CSE @ BIT Mesra | Python & Frontend Enthusiast | UI/UX & C/C++ Developer | Graphic Designer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+%26+Graphic+Designer+%F0%9F%8E%A8;Python+%26+C%2FC%2B%2B+Enthusiast+%F0%9F%90%8D;BIT+Mesra+%7C+Diploma+CSE+%7C+4th+Sem+%F0%9F%8E%93;Always+Learning+%7C+Always+Creating+%F0%9F%9A%80" />
-
-<br>
-
-<a href="mailto:adityaaraj.2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aditya-raj-b1b391322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=flat-square&color=A78BFA"/>
-
-</div>
+Welcome to my GitHub profile!  
+I am a passionate Computer Science Engineering diploma student at BIT Mesra who enjoys building creative and responsive websites, designing graphics, and continuously learning modern technologies.
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+## 🚀 About Me
 
-## 👨‍💻 About Me
-
-🎓 &nbsp; Pursuing **Diploma in CSE** — **4th Semester**
-
-🏫 &nbsp; Student at **BIT Mesra, Ranchi**
-
-💻 &nbsp; Interested in **Web Development**, **UI/UX** & **Software Dev**
-
-🌱 &nbsp; Currently learning **Java** & advancing my **Frontend** skills
-
-🎨 &nbsp; Experienced in **websites, posters, certificates & event designs**
-
-⚡ &nbsp; Passionate about **technology, creativity & problem solving**
-
-✨ &nbsp; Open to **internships, freelance & collaborations**
-
-<br clear="right"/>
+- 🎓 Pursuing Diploma in Computer Science Engineering (4th Semester)
+- 🏫 Student at BIT Mesra, Ranchi
+- 💻 Interested in Web Development, Software Development, UI/UX Development & Graphic Designing
+- 🌱 Currently learning Java and improving frontend skills
+- 🎨 Experienced in creating websites, posters, certificates, and event designs
+- ⚡ Passionate about technology, creativity, and problem solving
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<div align="center">
-
-### Languages & Markup
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java&theme=dark"/>
-
-<br><br>
+### Languages
+- HTML5
+- CSS3
+- C
+- C++
+- Python
+- Java
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+- Git & GitHub
+- VS Code
+- Canva
+- Figma
 
-</div>
-
----
-
-## 💡 Areas of Interest
-
-<div align="center">
-
-![Frontend Development](https://img.shields.io/badge/Frontend%20Development-6366F1?style=for-the-badge&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-EC4899?style=for-the-badge&logoColor=white)
-![Graphic Designing](https://img.shields.io/badge/Graphic%20Designing-00C4CC?style=for-the-badge&logoColor=white)
-![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-3B82F6?style=for-the-badge&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-10B981?style=for-the-badge&logoColor=white)
-
-</div>
+### Areas of Interest
+- Frontend Development
+- UI/UX Design
+- Graphic Designing
+- Responsive Web Design
+- Software Development
 
 ---
 
 ## 📌 Projects
 
-<div align="center">
+### 🌐 Portfolio Website
+A responsive personal portfolio website showcasing skills and projects.
 
-| &nbsp; | Project | Description |
-|:------:|---------|-------------|
-| 🌐 | **Portfolio Website** | Responsive personal portfolio showcasing skills, projects & design work |
-| 🔐 | **Login & Signup System** | Modern authentication UI with clean, responsive frontend layout |
-| 📊 | **Student Dashboard** | Interactive academic dashboard built with HTML & CSS |
-| 🎨 | **Event Design Collection** | Posters, banners & certificates designed for college fests & events |
+### 🔐 Login & Signup System
+Modern frontend authentication pages with responsive UI.
 
-</div>
+### 📊 Student Dashboard
+A clean dashboard interface designed using HTML and CSS.
+
+### 🎨 Poster & Certificate Designs
+Created posters, certificates, and promotional designs for college events and fests.
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+💡 **Consistency + Creativity + Learning = Growth**
 
 ---
 
-## 🏆 GitHub Trophies
+## 📫 Connect With Me
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
+- 📧 Email: adityaaraj.2008@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-raj-b1b391322
 
 ---
 
-## 📊 Contribution Graph
+## ✨ Quote I Believe In
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+✨ *Success comes from continuous learning and consistent effort.*
 
 ---
 
-<div align="center">
+## 🙌 Thanks for Visiting
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me.
 
-### &nbsp; *"Success comes from continuous learning and consistent effort."*
-
-<br>
-
-⭐ &nbsp; Explore my repositories and drop a star if something catches your eye!
-&nbsp;&nbsp; 💙 &nbsp; Thanks for visiting!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
-
-</div>
+Make it simple with simple animation and gifs and graphics also recruiter friendly and all the details are mentioned in the readme file don't write anything as a code in readme
