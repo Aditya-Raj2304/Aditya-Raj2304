@@ -74,7 +74,7 @@ Created posters, certificates, and promotional designs for college events and fe
 
 ## ✨ Quote I Believe In
 
-> “Success comes from continuous learning and consistent effort.”
+✨ *Success comes from continuous learning and consistent effort.*
 
 ---
 
