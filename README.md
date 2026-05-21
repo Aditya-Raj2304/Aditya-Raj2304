@@ -1,57 +1,85 @@
-# 🌐 HTML & CSS Practice Projects
+# Hi there, I'm Aditya Raj 👋
 
-## 📘 Description
-This repository contains beginner-level HTML and CSS projects created to practice basic web development concepts such as page structure, styling, and file organization.
+### Diploma Student | CSE @ BIT Mesra | Python & Frontend Enthusiast | UI/UX & C/C++ Developer | Graphic Designer
 
----
-
-## 📂 Projects Included
-
-### 👤 Personal Profile Page
-- A simple webpage about myself  
-- Created using HTML and CSS in the same file  
-- Focuses on basic tags, text formatting, and styling  
-
-📄 **File:**  
-- `index.html`
+Welcome to my GitHub profile!  
+I am a passionate Computer Science Engineering diploma student at BIT Mesra who enjoys building creative and responsive websites, designing graphics, and continuously learning modern technologies.
 
 ---
 
-### 🧑‍🎓 Student Table Page
-- A webpage displaying student details in a table format  
-- HTML and CSS are written in separate files  
-- Demonstrates table styling, layout, and external CSS linking  
+## 🚀 About Me
 
-📄 **Files:**  
-- `table.html`  
-- `style1.css`
-
----
-
-## 🛠️ Technologies Used
-- 🧱 HTML5  
-- 🎨 CSS3  
+- 🎓 Pursuing Diploma in Computer Science Engineering (4th Semester)
+- 🏫 Student at BIT Mesra, Ranchi
+- 💻 Interested in Web Development, Software Development, UI/UX Development & Graphic Designing
+- 🌱 Currently learning Java and improving frontend skills
+- 🎨 Experienced in creating websites, posters, certificates, and event designs
+- ⚡ Passionate about technology, creativity, and problem solving
 
 ---
 
-## ▶️ How to View the Projects
-1. 📥 Clone the repository  
-   ```bash
-   git clone <your-repo-link>
-2. 🌍 Open any `.html` file in a web browser
+## 🛠️ Skills & Technologies
+
+### Languages
+- HTML5
+- CSS3
+- C
+- C++
+- Python
+- Java
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Canva
+- Figma
+
+### Areas of Interest
+- Frontend Development
+- UI/UX Design
+- Graphic Designing
+- Responsive Web Design
+- Software Development
 
 ---
 
-## 🎯 Learning Objectives
-- 🏗️ Understanding HTML structure  
-- ✨ Applying CSS styles  
-- 🔗 Linking external CSS files  
-- 📄 Creating and styling web pages  
-- 🧩 Organizing project files properly  
+## 📌 Projects
+
+### 🌐 Portfolio Website
+A responsive personal portfolio website showcasing skills and projects.
+
+### 🔐 Login & Signup System
+Modern frontend authentication pages with responsive UI.
+
+### 📊 Student Dashboard
+A clean dashboard interface designed using HTML and CSS.
+
+### 🎨 Poster & Certificate Designs
+Created posters, certificates, and promotional designs for college events and fests.
 
 ---
 
-## 👨‍💻 Author
-**Aditya Raj**  
-🌱 Beginner Web Developer 🚀  
-💻 Passionate about learning Web Development
+## 📈 GitHub Stats
+
+```text
+💡 Consistency + Creativity + Learning = Growth
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: adityaaraj.2008@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-raj-b1b391322
+
+---
+
+## ✨ Quote I Believe In
+
+> “Success comes from continuous learning and consistent effort.”
+
+---
+
+## 🙌 Thanks for Visiting
+
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me.
