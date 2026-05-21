@@ -1,84 +1,172 @@
-# Hi there, I'm Aditya Raj 👋
+<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 
-### Diploma Student | CSE @ BIT Mesra | Python & Frontend Enthusiast | UI/UX & C/C++ Developer | Graphic Designer
+<h3 align="center">
+💻 Diploma Student | CSE @ BIT Mesra <br>
+🚀 Python & Frontend Enthusiast | UI/UX Designer | C/C++ Developer
+</h3>
 
-Welcome to my GitHub profile!  
-I am a passionate Computer Science Engineering diploma student at BIT Mesra who enjoys building creative and responsive websites, designing graphics, and continuously learning modern technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Python+Enthusiast;UI%2FUX+Designer;Graphic+Designer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME_HERE?style=for-the-badge&logo=github" />
+  
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME_HERE?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+# 🚀 About Me
 
 - 🎓 Pursuing Diploma in Computer Science Engineering (4th Semester)
 - 🏫 Student at BIT Mesra, Ranchi
-- 💻 Interested in Web Development, Software Development, UI/UX Development & Graphic Designing
-- 🌱 Currently learning Java and improving frontend skills
-- 🎨 Experienced in creating websites, posters, certificates, and event designs
-- ⚡ Passionate about technology, creativity, and problem solving
+- 💡 Passionate about Web Development & Creative Design
+- 🌱 Currently learning **Java & Advanced Frontend**
+- 🎨 Designing Posters, Certificates & Branding Assets
+- ⚡ Love building responsive and visually attractive websites
+- 📚 Exploring UI/UX, Software Development & Modern Tech
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠️ Tech Stack
 
-### Languages
-- HTML5
-- CSS3
-- C
-- C++
-- Python
-- Java
+## 👨‍💻 Languages
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Canva
-- Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java" />
+</p>
 
-### Areas of Interest
-- Frontend Development
-- UI/UX Design
-- Graphic Designing
-- Responsive Web Design
-- Software Development
+## ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Projects
+# 📌 Featured Projects
 
-### 🌐 Portfolio Website
-A responsive personal portfolio website showcasing skills and projects.
-
-### 🔐 Login & Signup System
-Modern frontend authentication pages with responsive UI.
-
-### 📊 Student Dashboard
-A clean dashboard interface designed using HTML and CSS.
-
-### 🎨 Poster & Certificate Designs
-Created posters, certificates, and promotional designs for college events and fests.
+## 🌐 Personal Portfolio Website
+✨ A premium responsive portfolio website showcasing my skills, projects, and creative engineering work with modern UI aesthetics.
 
 ---
 
-## 📈 GitHub Stats
-
-💡 **Consistency + Creativity + Learning = Growth**
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: adityaaraj.2008@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aditya-raj-b1b391322
+## 🔐 Login & Signup System
+🛡️ Modern authentication pages with responsive layouts, clean UI design, and adaptive frontend experience.
 
 ---
 
-## ✨ Quote I Believe In
-
-✨ *Success comes from continuous learning and consistent effort.*
+## 📊 Student Dashboard
+📈 Interactive dashboard interface designed using semantic HTML structures and modern CSS layouts.
 
 ---
 
-## 🙌 Thanks for Visiting
+## 🎨 Poster & Certificate Designs
+🎭 Designed posters, certificates, banners, and promotional creatives for college events, technical fests, and branding activities.
 
-⭐ Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me.
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&row=1&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:adityaaraj.2008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aditya-raj-b1b391322">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ✨ Quote I Believe In
+
+<p align="center">
+  
+> ### 🚀 "Success comes from continuous learning and consistent effort."
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```javascript
+const aditya = {
+    learning: ["Java", "Frontend Development", "UI/UX"],
+    workingOn: ["Responsive Websites", "Creative Designs"],
+    goals: ["Become a Full Stack Developer", "Build Amazing Projects"],
+    funFact: "I turn ideas into creative digital experiences ✨"
+};
+```
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME_HERE/YOUR_GITHUB_USERNAME_HERE/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🙌 Thanks for Visiting
+
+<p align="center">
+  
+⭐ Feel free to explore my repositories and connect with me!  
+💙 Thanks for visiting my profile.
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
+</p> 
