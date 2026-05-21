@@ -61,8 +61,7 @@ Created posters, certificates, and promotional designs for college events and fe
 
 ## 📈 GitHub Stats
 
-```text
-💡 Consistency + Creativity + Learning = Growth
+💡 **Consistency + Creativity + Learning = Growth**
 
 ---
 
